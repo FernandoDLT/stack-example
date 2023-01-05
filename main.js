@@ -1,4 +1,4 @@
-// Queue example
+// Stack example
 
 let stack = []
 stack.push(2) // queue is now [2]
